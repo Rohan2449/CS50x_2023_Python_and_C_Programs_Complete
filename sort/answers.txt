@@ -1,0 +1,12 @@
+sort1 uses: bubble
+
+How do you know?: The run time of the sorted list is the quickest since the outer loop runs only once.
+                  It has the fastest run time on a sorted list.
+
+sort2 uses: merge
+
+How do you know?: The run time is fast and consistent, therefore it is merge sort and not selection sort.
+
+sort3 uses: selection
+
+How do you know?: the run time is slower than sort2, but since all the lists had similar run times this must be selection sort.
